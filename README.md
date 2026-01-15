@@ -1,7 +1,5 @@
 ### AkiChase
 
-![AkiChase's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiChase&hide=contribs&show_icons=true&theme=swift)
-
 - 🌱 Master's degree candidate at Xiamen University & Open Source enthusiast.
 - 🌟 Love computer, guitar and game.
 
